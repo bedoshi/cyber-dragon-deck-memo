@@ -8,7 +8,7 @@
 
 そんな声が聞こえてきそうだが、《機械仕掛けの夜-クロックワークナイト》がすべてを解決してくれる。
 
-
+あと以降のやつは[タクティカルトライデッキのリスト](https://www.yugioh-card.com/japan/products/tt01a/)を前提としている。
 ## 起点になりそうなカード
 ### サイバー・ドラゴン・コア
 |イラスト|効果|
@@ -85,5 +85,6 @@ end
 ```
 
 ## 参考文献
-1. [遊戯王カードwiki](https://yugioh-wiki.net/)
-1. [遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース](https://www.db.yugioh-card.com/yugiohdb/)
+1. 遊戯王OCGデュエルモンスターズ TACTICAL-TRY DECK 終撃竜サイバー・ドラゴン | 商品情報 - https://www.yugioh-card.com/japan/products/tt01a/
+1. 遊戯王カードwiki - https://yugioh-wiki.net/
+1. 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース - https://www.db.yugioh-card.com/yugiohdb/
